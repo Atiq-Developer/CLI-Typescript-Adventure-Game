@@ -1,0 +1,16 @@
+{
+  "name": "72315-cli-based-adventure-game",
+  "version": "1.0.0",
+  "description": "Adventure Game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hafiz M Atiq 00055468",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^10.1.8"
+  }
+}
